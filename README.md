@@ -16,7 +16,7 @@ Ce projet est une API simple utilisant [FastAPI](https://fastapi.tiangolo.com/) 
 - **Python 3.8 ou supérieur**
 - **`ffmpeg` installé** (obligatoire pour Whisper)
 - **Connexion Internet** pour télécharger les modèles Whisper
--creation dossier uploads
+- **creation dossier uploads
 ## Installation
 
 ### 1. Cloner le projet
